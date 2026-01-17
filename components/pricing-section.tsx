@@ -14,7 +14,8 @@ export function PricingSection() {
 
         <div className="flex flex-col md:flex-row items-center justify-center gap-4 mb-10">
          
-          <span className="font-sans text-5xl md:text-6xl font-bold text-primary">500 ج.م</span>
+        <span className="font-sans text-5xl md:text-6xl font-bold text-primary">500 ج.م</span>
+
          
           </span>
         </div>
