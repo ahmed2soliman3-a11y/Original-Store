@@ -17,7 +17,7 @@ export function HeroSection() {
       <div className="relative z-10 max-w-4xl mx-auto">
         <div className="mb-8 mt-8 flex justify-center">
           <Image
-            src="/hero-perfumes.jpg"
+            src="/صوره الموقع2.jpg"
             alt="عطرين بنص السعر - Sauvage و Khamrah"
             width={600}
             height={500}
@@ -32,7 +32,7 @@ export function HeroSection() {
         </h1>
 
         <p className="text-muted-foreground text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed">
-          مجموعة حصرية من أفخم 5 عطور عالمية في علبة واحدة فاخرة
+          مجموعة حصرية من أفخم  العطور عالمية    
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
