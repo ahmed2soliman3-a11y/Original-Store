@@ -13,10 +13,9 @@ export function PricingSection() {
         <h2 className="font-sans text-4xl md:text-5xl font-bold mb-8">سعر خاص لا يُفوَّت</h2>
 
         <div className="flex flex-col md:flex-row items-center justify-center gap-4 mb-10">
-          <span className="text-muted-foreground text-2xl line-through">1400 ج.م</span>
-          <span className="font-sans text-5xl md:text-6xl font-bold text-primary">1000 ج.م</span>
-          <span className="bg-primary text-primary-foreground px-3 py-1 rounded-full text-sm font-medium">
-            وفر 400 ج.م
+         
+          <span className="font-sans text-5xl md:text-6xl font-bold text-primary">500 ج.م</span>
+         
           </span>
         </div>
 
